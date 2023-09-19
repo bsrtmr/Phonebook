@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aq/jYxzK0EA+LCajXH/9XIj91aOWncRNE9nyWof4mj9cdh3W7lnbq+Z+d6+5OTt3nSiux5OZ2pgX58FAAhFqxA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\PhoneBookApp\\KafkaConsumer\\KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamer\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\tamer\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\tamer\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
